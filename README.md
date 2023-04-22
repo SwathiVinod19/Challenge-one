@@ -4,7 +4,7 @@ My first challenge assignment.
 ```
 ##About the Website
 
-This is the official compant website of a marketing agency "Horiseon". This company focuses on Search Engine Optimization, Online Reputation Management and Social Media Marketing.
+This is the official company website of a marketing agency "Horiseon". This company focuses on Search Engine Optimization, Online Reputation Management and Social Media Marketing.
 
 
 ```
